@@ -46,10 +46,10 @@ PORT="port number, e.g 8080"
 
 Sample data in /client/data/data.js for data structure reference.
 
-## ☎️ Contact
-In case of any comments or advice, You can e-mail me or use Issues :)
 
-## 🧙‍♂️ Author
+
+
+## 🧙‍♂️ original Author
 - GitHub - [Marcin Suski](https://github.com/marcinsuski)
 - LinkedIn - [marcin-suski](https://www.linkedin.com/in/marcin-suski/)
 - Porftolio - [marcinsuski.pl](https://marcinsuski.pl)
